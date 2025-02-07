@@ -10,23 +10,10 @@ Backend esta com repositório privado.
 
 ### Instalação e Configuração
 
+Realize o clone do projeto usando: `git clone https://github.com/EriksJunior/app_pet_shop.git`
 
-git clone https://github.com/EriksJunior/PESTICIDES_APP.git
+Acesse o diretorio do projeto `cd app_pet_shop`
 
-Acesse o diretório do projeto:
+Instale as dependências: `npm install` obs: certifique-se de ter node instalado
 
-cd PESTICIDES_APP
-
-Instale as dependências:
-
-npm install
-
-Inicie o projeto:
-
-npx expo start
-
-Funcionalidades
-
-📌 Busca de agrotóxicos por nome.
-
-📋 Detalhes sobre cada produto, incluindo composição e restrições.
+Inicie o projeto: `npx run dev`.
