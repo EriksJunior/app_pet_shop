@@ -10,7 +10,7 @@ Backend esta com repositório privado.
 
 Realize o clone do projeto usando: **`git clone https://github.com/EriksJunior/app_pet_shop.git`**
 
-Acesse o diretorio do projeto **`cd app_pet_shop`**
+Acesse o diretório do projeto **`cd app_pet_shop`**
 
 Instale as dependências: **`npm install`** obs: certifique-se de ter node instalado
 
