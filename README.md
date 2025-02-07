@@ -45,3 +45,5 @@ Inicie o projeto: **`npx run dev`**.
 ### Pet Details
 **Peso do pet**
 ![Formulario de clientes](demo/pet_weight.PNG)
+
+### O Sistema também conta com temas Dark e Light
